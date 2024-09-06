@@ -1,0 +1,25 @@
+
+<!-- Intro Start -->
+
+<header class="intro">
+  <div class="intro-body">
+    <div class="container">
+      <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <h1 class="brand-heading">&nbsp;</h1>
+            <span class="intro-text">{{ content }}</span>
+            <h5>&nbsp;</h5>
+            <a href="{{site.baseurl}}/file/Resume_MengWu_2019.pdf" target="_blank">
+              {% if site.me-img contains "https://" %}
+                <img class="img-me" src="{{ site.me-img }}" alt="">
+              {% else %}
+                <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="" title="click to view my Resume">
+              {% endif %}
+            </a>
+          </div>
+        </div>
+    </div>
+  </div>
+</header>
+
+<!-- Intro End -->
