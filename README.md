@@ -1,1 +1,1 @@
-This is Meng's homepage, fork and modified from { Personal } Jekyll Theme(https://github.com/le4ker/personal-jekyll-theme)
+This is Shi Ke's homepage, fork and modified from { Personal } Jekyll Theme(https://github.com/le4ker/personal-jekyll-theme)

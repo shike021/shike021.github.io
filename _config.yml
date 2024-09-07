@@ -134,16 +134,16 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/ant.png"
     date: "March 2021 - Present"
-    description: "[Ant Group](https://www.antgroup.com): Blockchain Expert"
-  - image: "/img/timeline/hujiang.jpg"
+    description: "[Ant Group](https://www.antgroup.com): Blockchain Technology Expert"
+  - image: "/img/timeline/hujiang.jpeg"
     date: "March 2014 - March 2021"
     description: "[Hujiang](https://www.hujiang.com/about/): Architecture Expert of [CCTalk](https://www.cctalk.com/about/introduction)"
-  - image: "/img/timeline/Giant.jpeg"
+  - image: "/img/timeline/giant.jpeg"
     date: "April 2010 - March 2014"
-    description: "[Giant Group](https://www.ztgame.com): Senior Backend Engineer at Giant Research Institute"
+    description: "[Giant Group](https://www.ztgame.com): Senior Backend Development Supervisor at Giant Research Institute"
   - image: "/img/timeline/tencent.png"
     date: "April 2008 - April 2010"
-    description: "[Tencent](http://www.tencent.com): QQ Backend Engneer"
+    description: "[Tencent](http://www.tencent.com): Backend Engneer of QQ"
  
 # First image of the Timeline
 
@@ -176,7 +176,7 @@ social:
   - icon: "x-twitter"
     url: "https://twitter.com/wishlonger"
   - icon: "github"
-    url: "https://github.com/wishlonger"
+    url: "https://github.com/shike021"
   # - title: "bitcoin"
     # url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   # - title: "rss"
