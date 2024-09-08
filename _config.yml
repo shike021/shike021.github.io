@@ -110,7 +110,7 @@ enable-gesture-navigation: True
 
 post-preview-words: 10
 
-paginate: 5
+paginate: 4
 
 email-share: False
 fb-share: False
@@ -132,15 +132,18 @@ syntax-highlight: True
 ############
 
 events:
+  - image: ""
+    date: "Agust 2024 - Present"
+    description: "[Shulun Tech](): Sr. Architect"
   - image: "/img/timeline/ant.png"
-    date: "March 2021 - Present"
-    description: "[Ant Group](https://www.antgroup.com): Blockchain Technology Expert"
+    date: "March 2021 - March 2024"
+    description: "[Ant Group](https://www.antgroup.com): Blockchain Technology Expert of AntChain"
   - image: "/img/timeline/hujiang.jpeg"
     date: "March 2014 - March 2021"
-    description: "[Hujiang](https://www.hujiang.com/about/): Architecture Expert of [CCTalk](https://www.cctalk.com/about/introduction)"
+    description: "[Hujiang](https://www.hujiang.com/about/): Architect Expert of [CCTalk](https://www.cctalk.com/about/introduction)"
   - image: "/img/timeline/giant.jpeg"
     date: "April 2010 - March 2014"
-    description: "[Giant Group](https://www.ztgame.com): Senior Backend Development Supervisor at Giant Research Institute"
+    description: "[Giant Group](https://www.ztgame.com): Sr. Backend Development Leader at Giant Research Institute"
   - image: "/img/timeline/tencent.png"
     date: "April 2008 - April 2010"
     description: "[Tencent](http://www.tencent.com): Backend Engneer of QQ"
@@ -174,7 +177,7 @@ social:
   # - title: "facebook"
     # url: "https://facebook.com/"
   - icon: "x-twitter"
-    url: "https://twitter.com/wishlonger"
+    url: "https://twitter.com/shike2023"
   - icon: "github"
     url: "https://github.com/shike021"
   # - title: "bitcoin"
@@ -206,6 +209,7 @@ pages_list:
   About: 'about'
   #Education: 'education'
   Work: 'timeline'
+  Patent: 'patent'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
