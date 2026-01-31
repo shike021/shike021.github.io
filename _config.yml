@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://wishlonger.github.io"
+url: "https://shike021.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,10 +12,6 @@ url: "https://wishlonger.github.io"
 # NB! Without this *nothing* will work, because it's used in every path :)
 
 baseurl: /
-
-# Google tracking id
-
-google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -111,40 +107,25 @@ post-preview-words: 10
 
 paginate: 4
 
-email-share: False
-fb-share: False
-twitter-share: False
-linkedin-share: False
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
-
-disqus-shortname: "panossakkos"
-
-syntax-highlight: True
-
 ############
 # Timeline #
 ############
 
 events:
   - image: "/img/timeline/shulun.png"
-    date: "Agust 2024 - Present"
-    description: "[Shulun Tech](): Sr. Architect"
+    date: "2024 - Present"
+    description: "Shulun Tech: Senior Architect"
   - image: "/img/timeline/ant.png"
-    date: "March 2021 - March 2024"
+    date: "2021 - 2024"
     description: "[Ant Group](https://www.antgroup.com): Blockchain Technology Expert of AntChain"
   - image: "/img/timeline/hujiang.jpeg"
-    date: "March 2014 - March 2021"
+    date: "2014 - 2021"
     description: "[Hujiang](https://www.hujiang.com/about/): Architect Expert of [CCTalk](https://www.cctalk.com/about/introduction)"
   - image: "/img/timeline/giant.jpeg"
-    date: "April 2010 - March 2014"
+    date: "2010 - 2014"
     description: "[Giant Group](https://www.ztgame.com): Sr. Backend Development Leader at Giant Research Institute"
   - image: "/img/timeline/tencent.png"
-    date: "April 2008 - April 2010"
+    date: "2008 - 2010"
     description: "[Tencent](http://www.tencent.com): Backend Engneer of QQ"
 
 # First image of the Timeline
