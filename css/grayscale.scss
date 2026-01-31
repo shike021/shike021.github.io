@@ -461,3 +461,15 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+
+/* Patent section - left align */
+#patent ul {
+  text-align: left;
+  list-style-position: outside;
+  padding-left: 20px;
+}
+
+#patent li {
+  text-align: left;
+  margin-bottom: 10px;
+}

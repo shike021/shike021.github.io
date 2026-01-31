@@ -1,9 +1,27 @@
 
 <!-- Patent Start -->
 
-<section id="{{ page.section-type }}" class="container content-section text-center">
+<section id="{{ page.section-type }}" class="container content-section">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
+      <style>
+        #patent h2 {
+          text-align: center !important;
+        }
+        #patent > div > ul,
+        #patent > div > ol {
+          text-align: left !important;
+          list-style-position: outside !important;
+          padding-left: 0 !important;
+        }
+        #patent > div > ul > li,
+        #patent > div > ol > li {
+          text-align: left !important;
+          margin-bottom: 12px !important;
+          padding-left: 180px !important;
+          text-indent: -180px !important;
+        }
+      </style>
       {{ page.content | markdownify }}
     </div>
   </div>
